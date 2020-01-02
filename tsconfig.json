@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "es2015",
+    "jsx": "react",
+    "moduleResolution": "node",
+    "lib": ["es2018", "dom"],
+    "outDir": "dist",
+    "strict": true,
+    "skipLibCheck": true,
+    "declaration": true,
+  },
+  "files": [
+    "./src/Lottie.tsx"
+  ]
+}
